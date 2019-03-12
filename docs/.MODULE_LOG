@@ -1,0 +1,20 @@
+>>
+Script is used     : e3TemplateGenerator.bash
+Script Path        : /home/icssev/jp-krisztian/e3-tools/e3TemplateGenerator
+User               : icssev
+Log Time           : 2019Mar12-1058-58CET
+e3 repo Hash       : 9879dc4
+
+>>
+>> Your sources are located in https://gitlab.esss.lu.se/ioxos.
+>> git submodule will be used.
+>> 
+EPICS_MODULE_NAME  : ifc14daq
+E3_MODULE_SRC_PATH : ifc14daq
+EPICS_MODULE_URL   : https://gitlab.esss.lu.se/ioxos
+E3_TARGET_URL      : https://github.com/icshwi
+>> 
+e3 module name     : e3-ifc14daq
+e3 module url full : https://gitlab.esss.lu.se/ioxos/ifc14daq
+e3 target url full : https://github.com/icshwi/e3-ifc14daq.git
+>> 
